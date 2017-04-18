@@ -1,6 +1,4 @@
-/**
- * Created by Balázs on 2017. 04. 18..
- */
+/*
 public class BlackJack {
   static class Card {
     String color;
@@ -8,9 +6,17 @@ public class BlackJack {
 
     Card(String color, int value) {
       this.color = color;
-      this.value = value
+      this.value = value;
     }
 
-    
+    public String getColor() {
+      return color;
+    }
+
+    public int getValue() {
+      return value;
+    }
   }
-}
+
+  static class
+}*/
