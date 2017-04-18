@@ -1,4 +1,4 @@
-/*public class Copy {
+public class Copy {
   public final static String FILE_NAME = "copy-01.txt";
 
   public static void main(String[] args) {
@@ -6,6 +6,7 @@
       System.out.println("copy [source] [destination]");
     } else if (args[0].equals("copy-01.txt")) {
       System.out.println("No destination provided");
-    } else if (args[0][1])
+    } else if (args[0])
   }
-}*/
+}
+
