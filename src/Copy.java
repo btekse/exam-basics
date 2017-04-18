@@ -4,8 +4,8 @@ public class Copy {
   public static void main(String[] args) {
     if (args.length == 0) {
       System.out.println("copy [source] [destination]");
-    } else {
-      System.out.println("Unknown argument");
-    }
+    } else if (args[0].equals("copy-01.txt")) {
+      System.out.println("No destination provided");
+    } else if (args[0][1])
   }
 }
