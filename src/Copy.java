@@ -1,4 +1,4 @@
-public class Copy {
+/*public class Copy {
   public final static String FILE_NAME = "copy-01.txt";
 
   public static void main(String[] args) {
@@ -8,4 +8,4 @@ public class Copy {
       System.out.println("No destination provided");
     } else if (args[0][1])
   }
-}
+}*/
