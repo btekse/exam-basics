@@ -1,4 +1,3 @@
-/*
 public class BlackJack {
   static class Card {
     String color;
@@ -17,6 +16,4 @@ public class BlackJack {
       return value;
     }
   }
-
-  static class
-}*/
+}
