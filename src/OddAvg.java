@@ -15,12 +15,13 @@ public class OddAvg {
   public static int getOddNumbers(List<Integer> numberList) {
     List<Integer> getOddNumbersList = new ArrayList<>();
     int sum = 0;
+    int count = 0;
     for (int i = 0; i < numberList.size(); i++) {
       if (i % 2 != 0) {
-        getOddNumbersList.add(numberList.get(i));
+        count ++;
         sum += numberList.get(i);
       }
     }
-    return sum / getOddNumbersList.size();
+    return sum / count;
   }
 }
