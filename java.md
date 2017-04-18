@@ -36,15 +36,14 @@ The application is accepted if:
 
 #### Your answer:
 [add your answer here]   
-1:   
-2:   
-3:   
-4:   
-5:   
-6:   
-7:   
-8:   
+1:  method (collections of statements), "public static" is the modifier
+2:  (primitive) data type of the method
+3:  recursive harmonic method 
+4: int means (integer), this will be the type of 'n' variable --> together formal parameter
+5: n variable --> part of formal parameter
+6: define the type of "sum": double
+7: for loop: it increase the value of "i" variable in each loop 'til it's reach the value of "n"; and add the value of "sum" by 1.0/i
+8: the return value of the for loop in the "sum" variable
 
 ### What is the constructor? When it is used? [2p]
-#### Your answer:
-[add your answer here]
+#### Your answer: In each class there is at least 1 constructor. It can initializes the new object(s). This have to be named after the class. Constructor is not a method. We can call it with "new" wich will be give back the object(s).
